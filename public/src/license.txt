@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ford Mustang Shelby GT500
+* source:	https://sketchfab.com/3d-models/ford-mustang-shelby-gt500-0eaa7a16796540f29461ddae05ecdeb3
+* author:	Jiaxing (https://sketchfab.com/saitoyang)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ford Mustang Shelby GT500" (https://sketchfab.com/3d-models/ford-mustang-shelby-gt500-0eaa7a16796540f29461ddae05ecdeb3) by Jiaxing (https://sketchfab.com/saitoyang) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
